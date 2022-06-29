@@ -1,4 +1,4 @@
-# googleAuthanticator
+# google authanticator decoder. 
 
 OTP yardımıyla, telefon da üretilen google authanticator kodlarını bulma.
 

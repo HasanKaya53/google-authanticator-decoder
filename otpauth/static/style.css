@@ -1,0 +1,16 @@
+body {
+	font-family: 'IBM Plex Sans', sans-serif;
+	display: flex;
+	flex-wrap: wrap;
+}
+pre {
+	font-family: 'IBM Plex Mono', monospace;
+	white-space: pre-wrap;
+}
+section {
+	max-width: 25%;
+	border: thin solid currentColor;
+	border-radius: 1ex;
+	margin: 1ex;
+	padding: 1ex;
+}
